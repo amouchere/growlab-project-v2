@@ -1,0 +1,3 @@
+smbus
+pillow
+Jinja2
